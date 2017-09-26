@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<table>
+<table class="table table-striped">
     <th>Nombre</th>
     <th>Seccion</th>
     <th>Horario</th>
